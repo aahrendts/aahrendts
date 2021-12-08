@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Cybersecurity
 - 🌱 I’m currently learning Java Programming
 - 💞️ I’m looking to collaborate on codeing and other tech subjects
-- 📫 How to reach me ...
+- 📫 How to reach me doubleaahrendts@gmail.com
 
 <!---
 aahrendts/aahrendts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
